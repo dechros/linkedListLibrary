@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (StorageTypes.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  LinkedList.cpp
+  Main.cpp
+C:\Users\hp\github\LinkedList\Main.cpp(13,26): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Kod Üretiliyor...
+  StorageTypes.vcxproj -> C:\Users\hp\github\LinkedList\x64\Debug\LinkedList.exe

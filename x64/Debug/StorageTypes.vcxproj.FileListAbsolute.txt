@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\StorageTypes\x64\Debug\LinkedList.exe
+C:\Users\hp\github\LinkedList\x64\Debug\LinkedList.exe
